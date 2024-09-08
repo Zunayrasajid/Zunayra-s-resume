@@ -1,0 +1,1 @@
+Hello, I am Zunera Sajid, a student of the Governor Sindh IT course. This repository contains my achievements for Milestones 1 & 2 from the Hackathon project. These are my first-ever assignments in this field. I hope you find the project insightful and engaging. For more details, please refer to the project's documentation.
